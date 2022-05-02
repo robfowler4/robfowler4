@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/jeffrey-ally">LinkedIn</a>
 </p>
 
-<iframe src="https://giphy.com/embed/l0NwwC18nPqlPLAdO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tacobell-taco-tacos-bell-l0NwwC18nPqlPLAdO">via GIPHY</a></p>
+
 
 
 ---
