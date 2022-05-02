@@ -17,4 +17,4 @@ When I'm not coding, you can find me trying to catch up on a list of SNES games 
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: jeffreyally@gmail.com
 - ⚡ Fun fact: I enjoy cooking a lot, and Taco Bell when my stove needs a break
-<!--
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/simpleicons.svg" />
