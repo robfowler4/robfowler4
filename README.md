@@ -9,7 +9,7 @@
 ---
 I'm a web developer passionate about making programming knowledge accessible to all and improving my skillset day by day.
 
-When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid. 
+When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid.:video_game:
 
 
    
