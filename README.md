@@ -4,10 +4,7 @@
   <a href="www.linkedin.com/in/jeffrey-ally" >LinkedIn</a>
 </p>
 
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
-</p>
+
 
 ---
 ✨ I'm a web developer passionate about making programming knowledge accessible to all and improving my skillset day by day.
