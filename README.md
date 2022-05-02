@@ -2,7 +2,8 @@
 <h3 align="center">👋 Hi there! I'm Jeffrey Ally</h3>
 <p style="text-align:center">
   
-  <a href="www.linkedin.com/in/jeffrey-ally" >LinkedIn</a>
+  <a href="www.linkedin.com/in/jeffrey-ally" >LinkedIn</a>•
+  <a href="https://twitter.com/lauragift_">Twitter</a>
 </p>
 
 ---
