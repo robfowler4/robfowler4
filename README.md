@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Jeffrey Ally</h3>
 <p align="center">
-  <a href="www.linkedin.com/in/jeffrey-ally" >LinkedIn</a>
+  <a href="www.linkedin.com/in/jeffrey-ally"  target="_blank">LinkedIn</a>
 </p>
 
 
