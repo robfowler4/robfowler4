@@ -11,7 +11,7 @@ I'm a web developer passionate about making programming knowledge accessible to 
 
 When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid :video_game:
 
-<img align="right" width="100" height="100" src="https://i.gifer.com/9zX.mp4" >
+<img align="right" width="100" height="100" src="https://c.tenor.com/fOs8CBCbp8wAAAAM/taco-taco-dance.gif" >
 
 
    
