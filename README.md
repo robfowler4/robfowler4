@@ -16,6 +16,6 @@ When I'm not coding, you can find me trying to catch up on a list of SNES games 
 - 🔭 I’m currently working on The Odin Project
 - 🌱 I’m currently learning Web Development
 - 📫 How to reach me: jeffreyally@gmail.com
-- ⚡ Fun fact: I enjoy cooking a lot, and Taco Bell when my stove needs a break
+- ⚡ Fun fact: I enjoy cooking a lot, and Taco Bell when my stove needs a break 	:taco:
 
 
