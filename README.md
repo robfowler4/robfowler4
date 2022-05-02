@@ -1,6 +1,6 @@
 
 <h3 align="center">👋 Hi there! I'm Jeffrey Ally</h3>
-<p style="text-align:center">
+<p align="center">
   
   <a href="www.linkedin.com/in/jeffrey-ally" >LinkedIn</a>•
   
