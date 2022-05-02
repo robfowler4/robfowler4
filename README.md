@@ -11,7 +11,7 @@ I'm a web developer passionate about making programming knowledge accessible to 
 
 When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid :video_game:
 
-<img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
+<img src="https://media0.giphy.com/media/oqEoneNh5w8a4/200w.webp?cid=ecf05e47llvnkbnk08l6st68qh3je2j9bmwwo7uf5kti3bid&rid=200w.webp&ct=g" style="float:right;width:42px;height:42px;">
 
 
    
