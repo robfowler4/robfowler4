@@ -13,6 +13,9 @@ I'm a web developer passionate about making programming knowledge accessible to 
 &nbsp;
 &nbsp;
 &nbsp;
+<br></br>
+<br></br>
+<br></br>
 
 
 ## 🙋‍♂️ About Me
