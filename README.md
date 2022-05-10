@@ -26,7 +26,7 @@ I'm a web developer passionate about making programming knowledge accessible to 
 
 
 ## 📈 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyally)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyally&THEME=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
