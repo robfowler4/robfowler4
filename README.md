@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hi there! I'm Jeffrey Ally</h3>
+<h2 align="center">👋 Hi there! I'm Jeffrey Ally</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/jeffrey-ally">LinkedIn</a>
 </p>
@@ -11,11 +11,11 @@
 
 
 ---
-I'm a web developer passionate about making programming knowledge accessible to all and improving my skillset day by day. When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid :video_game:
+<h4>I'm a web developer passionate about making programming knowledge accessible to all and improving my skillset day by day. When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid :video_game:</h4>
 
 <br></br>
 <br></br>
-<br></br>
+
 
 
 ## 🙋‍♂️ About Me
@@ -27,7 +27,7 @@ I'm a web developer passionate about making programming knowledge accessible to 
 
 <br></br>
 <br></br>
-<br></br>
+
 
 
 ## 🛠️ Tools & Technologies
@@ -35,7 +35,7 @@ I'm a web developer passionate about making programming knowledge accessible to 
 
 <br></br>
 <br></br>
-<br></br>
+
 
 ## 📈 Github Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyally&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
