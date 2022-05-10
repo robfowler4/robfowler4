@@ -20,7 +20,8 @@
 ## 🙋‍♂️ About Me
    
 - 🔭 I’m currently working on Full Stack Development projects
-- 🌱 I’m currently learning Web Development
+- 🤓 Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
+- 👯 Looking to collaborate on interesting projects and connect with more devs
 - 📫 How to reach me: jeffreyally@gmail.com
 - ⚡ Fun fact: I enjoy cooking a lot, and Taco Bell when my stove needs a break <p align="center"><img src="https://user-images.githubusercontent.com/73410412/166306630-e7a178d7-60fa-4a47-ab41-541f04dbb408.gif" width="200" height="200"/></p>
 
