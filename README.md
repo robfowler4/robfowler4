@@ -1,9 +1,6 @@
 
 <h2 align="center">Robert J. Fowler IV</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/robert-fowler-053140192
-">LinkedIn</a>
-</p>
+
 
 
 
@@ -11,7 +8,7 @@
 
 
 ---
-<h4>I'm a full stack developer passionate about using programming knowledge to make day to day life easier for everyday people and improving my skillset by learning different languages that I am interested in. When I'm not coding, you can find me traveling, spending time with my family, and getting Call Of Duty wins with my friends! :video_game:</h4>
+<h3>I'm a full stack developer passionate about using programming knowledge to make day to day life easier for everyday people and improving my skillset by learning different languages that I am interested in. When I'm not coding, you can find me traveling, spending time with my family, and getting Call Of Duty wins with my friends! :video_game:</h3>
 
 <br></br>
 
@@ -23,8 +20,9 @@
 - 🔭 I’m currently working on Full Stack Development projects
 - 🤓 Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
 - 👯 Looking to collaborate on interesting projects and connect with more devs
-- 📫 How to reach me: https://www.linkedin.com/in/robert-fowler-053140192
-- ⚡ Fun fact: I enjoy cooking and playing video games! <p align="center"><img src="https://media1.giphy.com/media/y0NFayaBeiWEU/200.gif" width="265" height="200"/></p>
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: Rfowler97@gmail.com
+- ⚡ Fun fact: I enjoy playing basketball and video games! <p align="center"><img src="https://media1.giphy.com/media/y0NFayaBeiWEU/200.gif" width="265" height="200"/></p>
 
 <br></br>
 
