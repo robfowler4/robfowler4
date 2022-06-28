@@ -24,7 +24,7 @@
 - 🤓 Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
 - 👯 Looking to collaborate on interesting projects and connect with more devs
 - 📫 How to reach me: https://www.linkedin.com/in/robert-fowler-053140192
-- ⚡ Fun fact: I enjoy cooking and playing video games! <p align="center"><img src="https://media1.giphy.com/media/y0NFayaBeiWEU/200.gif" width="200" height="200"/></p>
+- ⚡ Fun fact: I enjoy cooking and playing video games! <p align="center"><img src="https://media1.giphy.com/media/y0NFayaBeiWEU/200.gif" width="265" height="200"/></p>
 
 <br></br>
 
