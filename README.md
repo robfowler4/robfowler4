@@ -1,7 +1,8 @@
 
-<h2 align="center">👋 Hi there! I'm Jeffrey Ally</h2>
+<h2 align="center">👋 Hi there! I'm Robert Fowler</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jeffrey-ally">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/robert-fowler-053140192
+">LinkedIn</a>
 </p>
 
 
@@ -10,7 +11,7 @@
 
 
 ---
-<h4>I'm a web developer passionate about making programming knowledge accessible to all and improving my skillset day by day. When I'm not coding, you can find me trying to catch up on a list of SNES games that I never got to play as a kid :video_game:</h4>
+<h4>I'm a full stack developer passionate about using programming knowledge to make day to day life easier for everyday people and improving my skillset by learning different languages that I am interested in. When I'm not coding, you can find me traveling, spending time with my family, and getting Call Of Duty wins with my friends! :video_game:</h4>
 
 <br></br>
 
@@ -22,8 +23,8 @@
 - 🔭 I’m currently working on Full Stack Development projects
 - 🤓 Currently working on projects using JavaScript, HTML/CSS, Bootstrap, React, Python, and Flask.
 - 👯 Looking to collaborate on interesting projects and connect with more devs
-- 📫 How to reach me: https://www.linkedin.com/in/jeffrey-ally/
-- ⚡ Fun fact: I enjoy cooking a lot, and Taco Bell when my stove needs a break :taco: <p align="center"><img src="https://user-images.githubusercontent.com/73410412/166306630-e7a178d7-60fa-4a47-ab41-541f04dbb408.gif" width="200" height="200"/></p>
+- 📫 How to reach me: https://www.linkedin.com/in/robert-fowler-053140192
+- ⚡ Fun fact: I enjoy cooking and playing video games! <p align="center"><img src="https://media1.giphy.com/media/y0NFayaBeiWEU/200.gif" width="200" height="200"/></p>
 
 <br></br>
 
@@ -49,8 +50,7 @@
 
 
 ## 📈 Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffreyally&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robfowler4&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
